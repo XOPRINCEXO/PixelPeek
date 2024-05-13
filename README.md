@@ -34,3 +34,9 @@ https://github.com/XOPRINCEXO/PixelPeek/assets/35366080/9c679b69-836a-47ad-895f-
 
 - [@xoprincexo](https://www.github.com/xoprincexo)
 
+
+## Image Credits
+
+- [black wooden shelf by @proxyclick](https://unsplash.com/photos/black-wooden-shelf-nezoFjwiuLQ)
+
+
